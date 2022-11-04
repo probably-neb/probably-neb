@@ -1,5 +1,5 @@
 [![probably-neb's GitHub stats](https://github-readme-stats.vercel.app/api?username=probably-neb&theme=great-gatsby&show_icons=true)](https://github.com/probably-neb/github-readme-stats&theme=great-gatsby&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=probably-neb&theme=great-gatsby)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=probably-neb&theme=great-gatsby&exclude_repo=nebsite)
 <!--
 **probably-neb/probably-neb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
